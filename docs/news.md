@@ -11,7 +11,7 @@ Today we are rebranding our project to “OWASP Mobile App Security (MAS)”. Th
 - OWASP MAS Checklists
 - OWASP MAS Crackmes (incl. Hacking playground)
 
-<img src="/docs/assets/news/mas-rebranding.png"/>
+<img src="https://user-images.githubusercontent.com/43957261/189356247-33060cfe-b4e0-48af-b98b-fee39c8b38bd.png"/>
 
 We see MAS reflecting all the consistency, structure and transparency that we’re bringing with our 2.0 versions.
 
